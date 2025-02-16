@@ -1,0 +1,1 @@
+python gradVisual.py --dataset mesidorBin --model res18 --weight ./ckpt/ResNet_mesidorBin_nat_class2_maxLR0.1_weightDecay0.001 --saveDir ./grad/mesidorBin/nat/ --bs 8 --gpu 7
