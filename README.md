@@ -10,6 +10,25 @@ Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and
 
 **March 2023**: We release the initial version of our survey paper by summarizing the current state of the AdvMIA methods with a unified benchmark evaluation of adversarial robustness for medical image analysis [on arXiv](https://arxiv.org/abs/2303.14133)
 
+## Citing
+
+If you find this project useful for your research, please kindly cite our survey paper.
+
+```
+@article{dong2024survey,
+  title={Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges},
+  author={Dong, Junhao and Chen, Junxi and Xie, Xiaohua and Lai, Jianhuang and Chen, Hao},
+  journal={ACM Computing Surveys},
+  volume={57},
+  number={3},
+  pages={1--38},
+  year={2024},
+  publisher={ACM New York, NY}
+}
+```
+
+
+
 ## Code
 ### Training
 
